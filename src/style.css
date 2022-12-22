@@ -19,6 +19,7 @@ body
     position: fixed;
     top: 0;
     right : 0;
+    float:right;
     outline: none;
 }
 
