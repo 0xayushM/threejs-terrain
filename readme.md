@@ -51,7 +51,7 @@ git clone https://github.com/${GitHub Username}/threejs-terrain.git
 ### Open Terminal on the Folder
 
 ```
-cd admin_dashboard
+cd threejs-terrain
 ```
 
 <br>
